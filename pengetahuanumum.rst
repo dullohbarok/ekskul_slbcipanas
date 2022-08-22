@@ -53,3 +53,4 @@ Perlu memiliki skill yang akan kuasai selama 1 tahun kedepan.
 
 *******************
 !!!! Mohon Maaf Saya Melakukan Kesalahan Tulisan Kata-Kata, Meski Memiliki Kekurangan !!!!
+*******************
