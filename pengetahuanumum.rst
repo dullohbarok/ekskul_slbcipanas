@@ -14,6 +14,8 @@ bisa jadi salah satu pilihan profesi di bidang IT, apalagi pasti teknologi moder
 Ceritakan 1 buah contoh kasus. Kenapa Anda menganggap itu besar dan penting? Apa hasil akhirnya?  
 Jelaskan 1 contoh kasus yang pernah Anda hadapi tersebut.
 
+Jawaban : belum pernah pengalaman di sebuah tim tersebut, 
+
 4. Sebutkan dan jelaskan sebanyak-banyaknya: software, tools, aplikasi, services, yang sering dipakai dalam membantu pekerjaan Anda selama ini. 
 Jelaskan manfaat dari tools yang Anda pakai tersebut.
 
