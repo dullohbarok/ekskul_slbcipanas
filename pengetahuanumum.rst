@@ -7,6 +7,9 @@ Jawaban : Bisa belajar tahap-tahap dalam proses pengembangan software. Perlu ber
 
 2. Terakhir diskusi tentang apa di bidang software development?
 
+Jawaban : Kemungkinan seorang penyandang disabilitas rungu yang tertarik lowongan pekerjaan sebagai software developer,
+bisa jadi salah satu pilihan profesi di bidang IT, apalagi pasti teknologi modern di dunia industri 4.0 yang jauh lebih dikenal.
+
 3. Dalam pengalaman di tim software development, apakah Anda pernah menyelesaikan sebuah problem/tantangan yang besar? 
 Ceritakan 1 buah contoh kasus. Kenapa Anda menganggap itu besar dan penting? Apa hasil akhirnya?  
 Jelaskan 1 contoh kasus yang pernah Anda hadapi tersebut.
