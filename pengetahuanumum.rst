@@ -35,6 +35,9 @@ untuk mengerjakan proyek yang sesuai kemampuan.
 
 6. Menurut Anda, apa saja kultur/budaya kerja yang harus dimiliki seorang engineer dan sebuah tim software development?
 
+Jawaban : kebiasaan yang dilakukan berulang- ulang oleh seorang engineer dan sebuah tim tersebut, 
+perlu pekerjaan tuntas, mengenal 5R, perlu belajar, berkerjasama dnegan tim, beradaptsi, berkualitas.
+
 7. Pada pekerjaan Anda sebelumnya, ceritakan secara singkat: 
 1) Hal apa saja yang Anda sukai? 2) Hal apa saja yang tidak Anda sukai dan mungkin membuang-buang waktu Anda?
 
