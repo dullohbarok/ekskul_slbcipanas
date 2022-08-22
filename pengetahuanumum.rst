@@ -3,6 +3,8 @@
 1. Ceritakan secara singkat, tahapan/proses-proses pengembangan software (software development life-cycle) yang Anda pernah ikuti. 
 Apa peran Anda dan bagaimana Anda bekerja dalam sebuah tim software development selama ini?
 
+Jawaban : Bisa belajar tahap-tahap dalam proses pengembangan software. Perlu bertugas untuk membangun aplikasi yang akan dilakukan oleh tim meskipun ada yang mengerjakan proyek aplikasi secara personal maupun individu. Harus memiliki tugas untuk mengembangkan, mengelola, menciptakan, harus berkerjasama dengan baik, mengelola dan hal-hal yang sesuai tanggungjawab tersebut.
+
 2. Terakhir diskusi tentang apa di bidang software development?
 
 3. Dalam pengalaman di tim software development, apakah Anda pernah menyelesaikan sebuah problem/tantangan yang besar? 
