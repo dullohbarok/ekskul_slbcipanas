@@ -14,7 +14,9 @@ bisa jadi salah satu pilihan profesi di bidang IT, apalagi pasti teknologi moder
 Ceritakan 1 buah contoh kasus. Kenapa Anda menganggap itu besar dan penting? Apa hasil akhirnya?  
 Jelaskan 1 contoh kasus yang pernah Anda hadapi tersebut.
 
-Jawaban : belum pernah pengalaman di sebuah tim tersebut, 
+Jawaban : belum pernah pengalaman di sebuah tim tersebut, tantangan besar disebut kemajuan teknologi yang perbaharui, 
+mengejar deadline, sumber daya terbatas, terlalu ekspetasi, banyak perubahan. 
+Karena menganggap itu besar dan pentingnya memiliki kekurangan dan kelebihan dalam pekerjaan, bisa menerapkan pengendalian aplikasi, lalu harus dibina.
 
 4. Sebutkan dan jelaskan sebanyak-banyaknya: software, tools, aplikasi, services, yang sering dipakai dalam membantu pekerjaan Anda selama ini. 
 Jelaskan manfaat dari tools yang Anda pakai tersebut.
