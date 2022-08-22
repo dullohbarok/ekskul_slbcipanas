@@ -29,6 +29,10 @@ Android Studio merupakan developer software yang sumber framework Java, dan lain
 1 tahun terakhir serta apa manfaat (impact) yang Anda dapatkan dari skill baru tersebut? 
 Apa skill tersebut berguna untuk project yang sedang Anda kerjakan?
 
+Jawaban : Makanya banyak belajar yang mempunyai skill lalu berhasil aplikasi yang dikuasai disebut PHP, CI, C#, Visual Studio, Java. 
+tetapi tidak harus menghafal bahasa pengrograman tersebut, akan dikarenakan bermanfaat. Perlu memiliki skill yang berguna 
+untuk mengerjakan proyek yang sesuai kemampuan.
+
 6. Menurut Anda, apa saja kultur/budaya kerja yang harus dimiliki seorang engineer dan sebuah tim software development?
 
 7. Pada pekerjaan Anda sebelumnya, ceritakan secara singkat: 
