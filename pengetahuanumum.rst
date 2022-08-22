@@ -43,8 +43,13 @@ perlu pekerjaan tuntas, mengenal 5R, perlu belajar, berkerjasama dnegan tim, ber
 
 Jawaban : 1) melakukan betah pekerjaan, bukan berarti tempat kerja. perlu fokus yang satu tujuan, perlu efektif dalam bekerja, 
 perlu mempelajari hal-hal baru, perlu berkerjasama dengan tim.
-2) jangan sampai disuruh banyak deadline, menghindari banyak bicara dan perlu hal yang lain.
+2) Banyak disuruh deadline, terlalu banyak acara, menghindari banyak bicara dan perlu hal yang lain.
 
 8. Apa rencana karir jangka pendek dan jangka panjang Anda? Skill apa yang ingin Anda kuasai/improve 1 tahun ke depan?
 
+Jawaban : rencana karir jangka pendek disebut mendapatkan keterampilan baru, jaringan baru, pengalaman baru, mencoba mulai belajar, meningkatkan produktif.
+rencana karir jangka panjang disebut mendapatkan sertifikasi, memerlukan perpindahan karir, memiliki skill yang perlu bidang IT, meraih pencapaian posisi.
+Perlu memiliki skill yang akan kuasai selama 1 tahun kedepan.
+
 *******************
+!!!! Mohon Maaf Saya Melakukan Kesalahan Tulisan Kata-Kata, Meski Memiliki Kekurangan !!!!
