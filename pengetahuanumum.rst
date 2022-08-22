@@ -1,4 +1,5 @@
-***********************
+###################
+*******************
 1. Ceritakan secara singkat, tahapan/proses-proses pengembangan software (software development life-cycle) yang Anda pernah ikuti. 
 Apa peran Anda dan bagaimana Anda bekerja dalam sebuah tim software development selama ini?
 
@@ -41,4 +42,5 @@ perlu pekerjaan tuntas, mengenal 5R, perlu belajar, berkerjasama dnegan tim, ber
 1) Hal apa saja yang Anda sukai? 2) Hal apa saja yang tidak Anda sukai dan mungkin membuang-buang waktu Anda?
 
 8. Apa rencana karir jangka pendek dan jangka panjang Anda? Skill apa yang ingin Anda kuasai/improve 1 tahun ke depan?
-***********************
+*******************
+###################
