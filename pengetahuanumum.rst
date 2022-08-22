@@ -41,6 +41,9 @@ perlu pekerjaan tuntas, mengenal 5R, perlu belajar, berkerjasama dnegan tim, ber
 7. Pada pekerjaan Anda sebelumnya, ceritakan secara singkat: 
 1) Hal apa saja yang Anda sukai? 2) Hal apa saja yang tidak Anda sukai dan mungkin membuang-buang waktu Anda?
 
+Jawaban : 1) melakukan betah pekerjaan, bukan berarti tempat kerja. perlu efektif dalam bekerja, perlu mempelajari hal-hal baru, perlu berkerjasama dengan tim.
+2) jangan sampai disuruh banyak deadline, 
+
 8. Apa rencana karir jangka pendek dan jangka panjang Anda? Skill apa yang ingin Anda kuasai/improve 1 tahun ke depan?
+
 *******************
-###################
