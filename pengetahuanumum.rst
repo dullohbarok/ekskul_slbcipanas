@@ -21,6 +21,10 @@ Karena menganggap itu besar dan pentingnya memiliki kekurangan dan kelebihan dal
 4. Sebutkan dan jelaskan sebanyak-banyaknya: software, tools, aplikasi, services, yang sering dipakai dalam membantu pekerjaan Anda selama ini. 
 Jelaskan manfaat dari tools yang Anda pakai tersebut.
 
+Jawaban : Selalu menyukai belajar dan bermanfaat pengenalan aplikasi IT, tetapi jarang mengetahui aplikasi-aplikasi.
+Codeigniter merupakan developer web yang sumber framework PHP, XAMPP merupakan membuat struktur database yang sumber MySQL.
+Android Studio merupakan developer software yang sumber framework Java, dan lain-lain yang tidak terlalu banyak mengetahui software, tools, services.
+
 5. Sebutkan dan ceritakan secara singkat skill baru apa saja yang berhasil Anda kuasai dalam 
 1 tahun terakhir serta apa manfaat (impact) yang Anda dapatkan dari skill baru tersebut? 
 Apa skill tersebut berguna untuk project yang sedang Anda kerjakan?
